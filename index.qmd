@@ -1,0 +1,12 @@
+---
+title: "Bebop Paleo"
+image: images/Broken_Hill_Skull_(Replica01).jpg
+bibliography: my-refs.bib
+csl: journal-of-human-evolution.csl
+---
+
+Welcome to Bebop Paleo. This site will act as my hub for storing and displaying information pertaining to my dissertation work in Paleoanthropology.
+
+I am learning about rmarkdown [@rmarkdown2018]
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
